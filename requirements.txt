@@ -6,3 +6,4 @@ pydantic[email]
 python-jose[cryptography]
 passlib[bcrypt]
 aiosqlite
+python-multipart
